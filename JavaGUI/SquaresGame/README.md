@@ -4,10 +4,10 @@
 The Java Squares Game is a simple yet engaging interactive game where players aim to eliminate falling squares by clicking on them before they reach the bottom edge of the panel. The game dynamically updates the score based on the fraction of squares eliminated relative to the total number created.
 
 <img width="411" alt="SquaresGame_Start" src="https://github.com/aleksandrajk/PJAIT_CSArchiveTasks/assets/55165756/1d273942-60a9-4f8b-9f55-01013b1cebd3">
-\n
+
 
 <img width="411" alt="You_Won" src="https://github.com/aleksandrajk/PJAIT_CSArchiveTasks/assets/55165756/f3911832-6f49-4abc-9e0c-641aa7302fdd">
-\n
+
 
 <img width="413" alt="You_Lost" src="https://github.com/aleksandrajk/PJAIT_CSArchiveTasks/assets/55165756/e8001faf-d256-4436-ab41-f69531ca4086">
 
